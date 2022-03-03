@@ -1,0 +1,10 @@
+C:\Users\erik.andren1\source\repos\Discord[copy]\Discord[copy]\bin\Debug\Discord[copy].exe.config
+C:\Users\erik.andren1\source\repos\Discord[copy]\Discord[copy]\bin\Debug\Discord[copy].exe
+C:\Users\erik.andren1\source\repos\Discord[copy]\Discord[copy]\bin\Debug\Discord[copy].pdb
+C:\Users\erik.andren1\source\repos\Discord[copy]\Discord[copy]\obj\Debug\Discord[copy].csproj.AssemblyReference.cache
+C:\Users\erik.andren1\source\repos\Discord[copy]\Discord[copy]\obj\Debug\Discord_copy_.Form1.resources
+C:\Users\erik.andren1\source\repos\Discord[copy]\Discord[copy]\obj\Debug\Discord_copy_.Properties.Resources.resources
+C:\Users\erik.andren1\source\repos\Discord[copy]\Discord[copy]\obj\Debug\Discord[copy].csproj.GenerateResource.cache
+C:\Users\erik.andren1\source\repos\Discord[copy]\Discord[copy]\obj\Debug\Discord[copy].csproj.CoreCompileInputs.cache
+C:\Users\erik.andren1\source\repos\Discord[copy]\Discord[copy]\obj\Debug\Discord[copy].exe
+C:\Users\erik.andren1\source\repos\Discord[copy]\Discord[copy]\obj\Debug\Discord[copy].pdb
